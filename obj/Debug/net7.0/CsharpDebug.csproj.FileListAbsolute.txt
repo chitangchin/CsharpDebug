@@ -1,0 +1,14 @@
+C:\Users\brandon\CsharpDebug\bin\Debug\net7.0\CsharpDebug.exe
+C:\Users\brandon\CsharpDebug\bin\Debug\net7.0\CsharpDebug.deps.json
+C:\Users\brandon\CsharpDebug\bin\Debug\net7.0\CsharpDebug.runtimeconfig.json
+C:\Users\brandon\CsharpDebug\bin\Debug\net7.0\CsharpDebug.dll
+C:\Users\brandon\CsharpDebug\bin\Debug\net7.0\CsharpDebug.pdb
+C:\Users\brandon\CsharpDebug\obj\Debug\net7.0\CsharpDebug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brandon\CsharpDebug\obj\Debug\net7.0\CsharpDebug.AssemblyInfoInputs.cache
+C:\Users\brandon\CsharpDebug\obj\Debug\net7.0\CsharpDebug.AssemblyInfo.cs
+C:\Users\brandon\CsharpDebug\obj\Debug\net7.0\CsharpDebug.csproj.CoreCompileInputs.cache
+C:\Users\brandon\CsharpDebug\obj\Debug\net7.0\CsharpDebug.dll
+C:\Users\brandon\CsharpDebug\obj\Debug\net7.0\refint\CsharpDebug.dll
+C:\Users\brandon\CsharpDebug\obj\Debug\net7.0\CsharpDebug.pdb
+C:\Users\brandon\CsharpDebug\obj\Debug\net7.0\CsharpDebug.genruntimeconfig.cache
+C:\Users\brandon\CsharpDebug\obj\Debug\net7.0\ref\CsharpDebug.dll
